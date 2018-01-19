@@ -8,7 +8,7 @@ All sorts of colors
 Hue can be max 120.
 
 Here are the colors:
-
+- `10---20---30---40----50-----60---70---80---90`
 - ![#330000](https://placehold.it/15/330000/000000?text=+)
 ![#4d0000](https://placehold.it/15/4d0000/000000?text=+)
 ![#660000](https://placehold.it/15/660000/000000?text=+)
@@ -25,7 +25,7 @@ Here are the colors:
 ![#ff8080](https://placehold.it/15/ff8080/000000?text=+)
 ![#ff9999](https://placehold.it/15/ff9999/000000?text=+)
 ![#ffb3b3](https://placehold.it/15/ffb3b3/000000?text=+)
-![#ffcccc](https://placehold.it/15/ffcccc/000000?text=+) Hue 0
+![#ffcccc](https://placehold.it/15/ffcccc/000000?text=+)`0`
 - ![#330d00](https://placehold.it/15/330d00/000000?text=+)
 ![#4d1300](https://placehold.it/15/4d1300/000000?text=+)
 ![#661a00](https://placehold.it/15/661a00/000000?text=+)
@@ -42,7 +42,7 @@ Here are the colors:
 ![#ff9f80](https://placehold.it/15/ff9f80/000000?text=+)
 ![#ffb399](https://placehold.it/15/ffb399/000000?text=+)
 ![#ffc6b3](https://placehold.it/15/ffc6b3/000000?text=+)
-![#ffd9cc](https://placehold.it/15/ffd9cc/000000?text=+) Hue 5
+![#ffd9cc](https://placehold.it/15/ffd9cc/000000?text=+)`5`
 - ![#331a00](https://placehold.it/15/331a00/000000?text=+)
 ![#4d2600](https://placehold.it/15/4d2600/000000?text=+)
 ![#663300](https://placehold.it/15/663300/000000?text=+)
@@ -59,7 +59,7 @@ Here are the colors:
 ![#ffbf80](https://placehold.it/15/ffbf80/000000?text=+)
 ![#ffcc99](https://placehold.it/15/ffcc99/000000?text=+)
 ![#ffd9b3](https://placehold.it/15/ffd9b3/000000?text=+)
-![#ffe6cc](https://placehold.it/15/ffe6cc/000000?text=+) Hue 10
+![#ffe6cc](https://placehold.it/15/ffe6cc/000000?text=+)`10`
 - ![#332600](https://placehold.it/15/332600/000000?text=+)
 ![#4d3900](https://placehold.it/15/4d3900/000000?text=+)
 ![#664d00](https://placehold.it/15/664d00/000000?text=+)
@@ -76,7 +76,7 @@ Here are the colors:
 ![#ffdf80](https://placehold.it/15/ffdf80/000000?text=+)
 ![#ffe699](https://placehold.it/15/ffe699/000000?text=+)
 ![#ffecb3](https://placehold.it/15/ffecb3/000000?text=+)
-![#fff2cc](https://placehold.it/15/fff2cc/000000?text=+) Hue 15
+![#fff2cc](https://placehold.it/15/fff2cc/000000?text=+)`15`
 - ![#333300](https://placehold.it/15/333300/000000?text=+)
 ![#4d4d00](https://placehold.it/15/4d4d00/000000?text=+)
 ![#666600](https://placehold.it/15/666600/000000?text=+)
@@ -93,4 +93,4 @@ Here are the colors:
 ![#ffff80](https://placehold.it/15/ffff80/000000?text=+)
 ![#ffff99](https://placehold.it/15/ffff99/000000?text=+)
 ![#ffffb3](https://placehold.it/15/ffffb3/000000?text=+)
-![#ffffcc](https://placehold.it/15/ffffcc/000000?text=+) Hue 20
+![#ffffcc](https://placehold.it/15/ffffcc/000000?text=+)`20`
