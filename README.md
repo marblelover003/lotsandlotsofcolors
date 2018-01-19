@@ -1,6 +1,8 @@
 # lotsandlotsofcolors
 All sorts of colors
 
+`Do you like colors? Then this repository is for you! DO NOT EDIT IT, though! I created this code from a page on Stack Overflow, and the images will not work properly if you edit ANYTHING. So please, I will only say this once more: Do. Not. Edit. This. Repository.`
+
 - 10% brightness is on the left
 - 50% brightness is in the middle
 - 90% brightness is on the right
