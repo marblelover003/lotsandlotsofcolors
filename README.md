@@ -1,7 +1,7 @@
 # lotsandlotsofcolors
 All sorts of colors
 
-Got Colors??
+# Got Colors??
 
 - 10% brightness is on the left
 - 50% brightness is in the middle
