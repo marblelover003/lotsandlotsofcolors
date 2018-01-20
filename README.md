@@ -1,10 +1,7 @@
 # lotsandlotsofcolors
 All sorts of colors
 
-Do you like colors? Then this repository is for you!
-DO NOT EDIT IT, though! I created this code from a page on Stack Overflow.
-The images will not work properly if you edit ANYTHING. 
-So please, I will only say this once more: Do. Not. Edit. This. Repository.
+Got Colors??
 
 - 10% brightness is on the left
 - 50% brightness is in the middle
@@ -99,3 +96,20 @@ Here are the colors:
 ![#ffff99](https://placehold.it/15/ffff99/000000?text=+)
 ![#ffffb3](https://placehold.it/15/ffffb3/000000?text=+)
 ![#ffffcc](https://placehold.it/15/ffffcc/000000?text=+)`20`
+- ![#263300](https://placehold.it/15/263300/000000?text=+)
+![#394d00](https://placehold.it/15/394d00/000000?text=+)
+![#4d6600](https://placehold.it/15/4d6600/000000?text=+)
+![#608000](https://placehold.it/15/608000/000000?text=+)
+![#739900](https://placehold.it/15/739900/000000?text=+)
+![#86b300](https://placehold.it/15/86b300/000000?text=+)
+![#99cc00](https://placehold.it/15/99cc00/000000?text=+)
+![#ace600](https://placehold.it/15/ace600/000000?text=+)` `
+![#bfff00](https://placehold.it/15/bfff00/000000?text=+)` `
+![#c6ff1a](https://placehold.it/15/c6ff1a/000000?text=+)
+![#ccff33](https://placehold.it/15/ccff33/000000?text=+)
+![#d2ff4d](https://placehold.it/15/d2ff4d/000000?text=+)
+![#d9ff66](https://placehold.it/15/d9ff66/000000?text=+)
+![#dfff80](https://placehold.it/15/dfff80/000000?text=+)
+![#e6ff99](https://placehold.it/15/e6ff99/000000?text=+)
+![#ecffb3](https://placehold.it/15/ecffb3/000000?text=+)
+![#f2ffcc](https://placehold.it/15/f2ffcc/000000?text=+)`25`
